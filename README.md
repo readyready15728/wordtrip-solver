@@ -9,5 +9,3 @@ blaze through this game.
 
 Words file derived from `/usr/share/dict/words` and [Webster's Unabridged
 Dictionary](https://www.gutenberg.org/ebooks/29765).
-
-test
