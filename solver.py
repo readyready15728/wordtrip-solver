@@ -9,7 +9,7 @@ with open(dictionary) as f:
 letters = sys.argv[1]
 possibilities = set()
 
-for i in range(2, len(letters) + 1):
+for i in range(3, len(letters) + 1):
     for p in itertools.permutations(letters, i):
         possibilities.add("".join(p))
 
